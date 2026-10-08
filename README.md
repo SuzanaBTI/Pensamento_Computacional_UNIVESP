@@ -1,5 +1,3 @@
-# pensamento-computacional
-Portfólio de atividades práticas da disciplina de Pensamento Computacional utilizando a plataforma Scratch.
 # Pensamento Computacional - Atividades Scratch
 
 Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvidos em aula.
