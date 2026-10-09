@@ -1,5 +1,8 @@
 # Pensamento Computacional - Atividades Scratch
 
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvidos em aula.
 
 ---
@@ -109,15 +112,13 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Conceitos Importantes**: Inserir elementos ao final da lista; Reusar a variável xx para percorrer a lista do início ao fim e depois, no segundo loop, do fim ao início; Loops de 1 a N e de N a 1; Uso de acumulador de valores; Percorrer a lista usando iteração.
 * **Arquivos**: [Código Scratch](./Atividade-09/pensamento_computacional_exercicio_09.sb3) | [Fluxograma](./Atividade-09/fluxograma-exercicio-9.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330610876)
 
-# Atividade 10 - Aplicação Prática de Ferramentas Digitais e IA
+🤖 Atividade 10 — Aplicação Prática de Ferramentas Digitais e IA
 
-Esta atividade foi desenvolvida para aplicar na prática os conhecimentos sobre ferramentas digitais, utilizando Inteligência Artificial (ChatGPT) para a criação de um conteúdo educacional focado em Pensamento Computacional.
+Módulo focado na integração de tecnologias digitais e **Inteligência Artificial (Google Gemini)** como ferramenta pedagógica no apoio ao ensino de Pensamento Computacional.
 
----
-
-## 🛠️ Ferramentas Utilizadas
-* **ChatGPT (IA):** Utilizado como co-autor para estruturar, sintetizar e formatar o conteúdo didático de forma clara e acessível.
-* **Scratch:** A ferramenta pedagógica escolhida como tema central para a criação do conteúdo digital.
+### 🛠️ Ferramentas Utilizadas
+* **Google Gemini / NotebookLM (IA):** Utilizado no ecossistema da conta de estudante para auxiliar na estruturação, síntese e formatação didática das explicações.
+* **Scratch:** Ambiente prático para aplicação direta dos algoritmos.
 
 ---
 
