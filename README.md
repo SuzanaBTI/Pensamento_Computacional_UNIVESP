@@ -112,6 +112,8 @@ Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvi
 * **Conceitos Importantes**: Inserir elementos ao final da lista; Reusar a variável xx para percorrer a lista do início ao fim e depois, no segundo loop, do fim ao início; Loops de 1 a N e de N a 1; Uso de acumulador de valores; Percorrer a lista usando iteração.
 * **Arquivos**: [Código Scratch](./Atividade-09/pensamento_computacional_exercicio_09.sb3) | [Fluxograma](./Atividade-09/fluxograma-exercicio-9.png) | [Projeto Online no Scratch](https://scratch.mit.edu/projects/1330610876)
 
+---
+
 ### 🧩 Atividade 10 — Aplicação Prática de Ferramentas Digitais e IA
 
 Módulo focado na integração de tecnologias digitais e **Inteligência Artificial (Google Gemini)** como ferramenta pedagógica no apoio ao ensino de Pensamento Computacional.
