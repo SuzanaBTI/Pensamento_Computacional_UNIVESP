@@ -1,3 +1,2 @@
-# Detecta os projetos nativos do Scratch no GitHub
+*.sb3 linguist-language=Scratch
 *.sb3 linguist-detectable=true
-*.sb2 linguist-detectable=true
