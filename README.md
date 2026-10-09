@@ -142,5 +142,13 @@ Para fazer o personagem principal (o gato) se mover continuamente ao clicar na b
 * **Laços de Repetição (Loops):** O uso do bloco `sempre` para manter o movimento ativo.
 * **Condicionais:** O bloco `se tocar na borda, rebata` que analisa o ambiente antes de tomar uma decisão.
 
+## 🛠️ Ferramentas e Tecnologias Utilizadas
+
+| Ferramenta | Categoria | Aplicação no Projeto |
+| :--- | :--- | :--- |
+| **Scratch 3.0** | Programação em Blocos | Construção prática dos algoritmos e lógica interativa. |
+| **Google Gemini** | IA Generativa | Auxílio na estruturação, síntese e formatação didática da documentação. |
+| **NotebookLM** | Caderno com IA | Organização e centralização das notas de aula e materiais oficiais da UNIVESP. |
+
 ---
 *Atividade prática entregue como parte dos requisitos da disciplina de Pensamento Computacional - UNIVESP.*
