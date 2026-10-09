@@ -1,8 +1,5 @@
 # Pensamento Computacional - Atividades Scratch
 
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
 Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvidos em aula.
 
 ---
