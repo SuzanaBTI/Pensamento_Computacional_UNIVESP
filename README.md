@@ -1,3 +1,8 @@
+![Scratch](https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white)
+![UNIVESP](https://img.shields.io/badge/UNIVESP-Pensamento_Computacional-b30000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+![Lógica](https://img.shields.io/badge/Lógica-Algoritmos_&_Fluxogramas-007ACC?style=for-the-badge)
+
 # Pensamento Computacional - Atividades Scratch
 
 Repositório dedicado ao registro de algoritmos e conceitos teóricos desenvolvidos em aula.
