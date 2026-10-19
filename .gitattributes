@@ -1,2 +1,3 @@
+*.sb3 binary=false
 *.sb3 linguist-detectable=true
 *.sb3 linguist-language=Scratch
